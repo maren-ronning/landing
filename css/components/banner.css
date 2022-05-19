@@ -1,0 +1,23 @@
+.banner{
+	background-color: #fffcf2;
+	color: white;
+	padding: 80px 0px;
+	margin-top: 0px;
+	box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.05);;
+}
+
+.banner h1 {
+	font-size: 58px;
+	text-align: center;
+	margin-top: 40px;
+}
+
+.avatar {
+	margin-left: 900px;
+	display: inline-block;
+	padding: 0px 0px;	
+}
+
+.btn-green {
+	margin-left: 700px;
+}

@@ -1,0 +1,23 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    order: 0;
+    padding-left: 30px;
+    flex-basis: 470px;
+    margin-top: 15px;
+    }
+
+.card img {
+    width: 312px;
+    height: 312px;
+    text-align: center;
+}
+
+.image{
+    text-align: center ;
+}
+
+
